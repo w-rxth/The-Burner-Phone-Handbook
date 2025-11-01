@@ -32,15 +32,25 @@ Now, for the smartphone users, follow along:
 After you remove all the apps you do not need, you can get the ones you will need. The general rule of thumb is to install the absolute minimum. I will list the apps you will need (however, do note that ViMusic and NewPipe are not required) and their uses.
 
 **{App Name}** _[Purpose]_ (Instead of)
+
 **{F-Droid}** _[Find and download apps]_ (Google Play Store, APK Pure)
+
 **{Signal}** _[Encrypted Messaging]_ (SMS, TextNow, TextFree, WhatsApp, Messenger)
+
 **{Orbot}** _[A proxy that routes all your device's internet traffic through Tor]_ (N/A)
+
 **{Riseup or Mullvad}** _[Makes your phone's internet traffic appear to come from a different geographical location]_ (NordVPN, and Orbot if desired)
+
 **{DuckDuckGo Browser}** _[Standard everyday browsing with minimal tracking]_ (Chrome Browser, Firefox, Opera)
+
 **{Tor Browser}** _[Access the internet more securely and anonymously]_ (Chrome Browser, Firefox, Opera)
+
 **{Simple Keyboard}** _[A keyboard that does not monitor your words or keystrokes]_ (Gboard, standard pre-installed keyboard)
+
 **{Organic Maps}** _[Maps and navigation]_ (Google maps, Waze, Open Street Maps)
+
 **{NewPipe}** _[Watch YouTube videos without an account or tracking]_ (YouTube)
+
 **{ViMusic}** _[Listen to music without ads, an account, or tracking]_ (Spotify, Pandora, other free radio apps)
 
 ### F-Droid
